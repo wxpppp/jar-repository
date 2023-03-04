@@ -1,0 +1,2 @@
+# jar-repository
+在loong64架构上构建java项目时，部分依赖的jar包含有架构相关的文件，本仓库用于存放适配了loong64架构的jar包。
